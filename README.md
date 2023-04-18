@@ -8,6 +8,8 @@ This repository contains 3 files:
 * DeltaApp_071.frm - _UI form_
 
 # How to use
-Open .CT file in Cheat Engine 7.2 or higher and compile it into .exe file with _Lua Symbols_ checked.
+Open .CT file in Cheat Engine 7.2 or higher
+Ctrl + Alt + L
+Replace all source code from main.lua and compile it into .exe file with _Lua Symbols_ checked.
 
 _P.S. Do not disturb developer if you fail to run this app._
