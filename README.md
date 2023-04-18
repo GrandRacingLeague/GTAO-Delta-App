@@ -1,5 +1,5 @@
 # GTAO-Delta-App
-Delta App for GTA Online races by CarloMagazoni.
+Delta App for GTA Online races by CarloMagazoni(aka Vi'o'Lence).
 
 # What's inside?
 This repository contains 3 files:
