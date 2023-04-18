@@ -3,9 +3,9 @@ Delta App for GTA Online races by CarloMagazoni.
 
 # What's inside?
 This repository contains 3 files:
-* DeltaApp.CT - _file for CheatEngine_
+* DeltaApp3.CT - _file for CheatEngine_
 * Main.lua - _all source code_
-* DeltaApp_071.frm - _UI form_
+* 0.9.2.frm - _UI form_
 
 # How to use
 Open .CT file in Cheat Engine 7.2 or higher
